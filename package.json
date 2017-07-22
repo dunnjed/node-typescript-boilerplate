@@ -10,6 +10,7 @@
     "test": "jest",
     "test-cov": "jest --coverage"
   },
+  "engines" : { "node" : ">=6.4.0" },
   "keywords": [
     "typescript",
     "node",
